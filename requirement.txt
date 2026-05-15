@@ -1,0 +1,26 @@
+Python o‘rnatilganini tekshirish -- ['python --version']
+
+
+Python’da virtual environment (venv) yaratish -- ['python -m venv venv']
+
+Virtual environmentni yoqish (activate) -- ['venv\Scripts\activate']
+
+Virtual environmentni o‘chirish (deactivate) -- ['deactivate']
+
+django o'rnatish: -- ['pip install django']
+
+venv yaratish → django o‘rnatish → loyiha ochish → runserver ishlatish
+
+```
+requests keyinroq kerak bo‘lishi mumkin, masalan:
+
+ob-havo API
+valyuta kursi
+Telegram bot
+boshqa sayt/API bilan bog‘lanish
+
+uchun.```
+
+
+
+
